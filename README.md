@@ -9,7 +9,6 @@ This game is WIP.
 | Builds |
 | ------------- |
 | [Windows](https://mega.nz/#!4V0X2QZZ!aG1kWlDrJ3MA2loj7ur-3GitY5YXwkrPORUvdcihBx0)  |
-| [Linux (WIP)](Maybe sometime in the future)|
 
 
 Pictures:
